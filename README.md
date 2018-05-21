@@ -1,4 +1,5 @@
-#REACT DEVKIT
+# REACT DEVKIT
+
 Made for own use purposes.
 
 Contains:
@@ -6,4 +7,8 @@ Contains:
 * WebPack Dev Server;
 * Eslint by AirBnb;
 * Eslint Prettier;
-* Babel.
+* Babel Pack.
+
+Author:
+
+* [Alexandre Brandizzi](https://github.com/albrand)
